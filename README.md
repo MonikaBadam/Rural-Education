@@ -4,7 +4,7 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 **Project Link:** https://blue-moss-0b27a2000.3.azurestaticapps.net/
 
-**Project Demo Link:**  
+**Project Demo Link:** https://www.youtube.com/watch?v=v5nTupzu-l0
 
 ## Features
 
