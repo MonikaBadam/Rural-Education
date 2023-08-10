@@ -192,5 +192,6 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 I would like to thank the Future Ready Talent, GitHub and Microsoft Azure for providing the opportunity to work on this project and contribute to the promotion of Education in Rural areas.
 
 
+---
 
 Thank you for your interest in Rural Learn. Together, let's promote Education in Rural areas and contribute to a sustainable and healthier future!
