@@ -1,4 +1,4 @@
-Rural Learn
+#Rural Learn
 
 Rural Learn is a project developed as part of the Future Ready Talent Internship. This website serves as a valuable resource to learn more about Rural Education and aims to raise awareness about the importance of education and making it a priority in everyones students life. It also provides a platform for institutions to connect with us for conducting surveys and educational programs for providing Primary education in Rural areas.
 
