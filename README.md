@@ -53,6 +53,11 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 
 
+
+
+
+
+
 ![2](https://github.com/MonikaBadam/Rural-Education/assets/126134987/90742854-259c-48dc-9751-a71de19f872b)
 
 
@@ -61,7 +66,13 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 
 
+
+
+
+
 ![3](https://github.com/MonikaBadam/Rural-Education/assets/126134987/517b77cf-9174-4751-a774-c7eb3d4aef34)
+
+
 
 
 
@@ -77,12 +88,21 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 
 
+
+
+
+
 **Surveys Page**
 
 
 
 
+
+
 ![5](https://github.com/MonikaBadam/Rural-Education/assets/126134987/b9d9809b-5fb9-4657-9d13-2f7a755868bb)
+
+
+
 
 
 
@@ -98,13 +118,23 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 
 
+
+
+
 ![7](https://github.com/MonikaBadam/Rural-Education/assets/126134987/55ee20b4-a86f-44f5-b02f-87e04ffeeb2f)
 
 
 
 
 
+
+
+
 **Stats Page**
+
+
+
+
 
 
 
@@ -117,7 +147,14 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 
 
+
+
+
+
 **Contact Page**
+
+
+
 
 
 
@@ -128,7 +165,13 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 
 
+
+
+
 **Knowledge Bot Page**
+
+
+
 
 
 
@@ -139,7 +182,10 @@ Rural Learn is a project developed as part of the Future Ready Talent Internship
 
 
 
-##Acknowledgements
+
+
+
+## Acknowledgements
 
 
 
