@@ -2,7 +2,7 @@
 
 Rural Learn is a project developed as part of the Future Ready Talent Internship. This website serves as a valuable resource to learn more about Rural Education and aims to raise awareness about the importance of education and making it a priority in everyones students life. It also provides a platform for institutions to connect with us for conducting surveys and educational programs for providing Primary education in Rural areas.
 
-**Project Link:** https://blue-moss-0b27a2000.3.azurestaticapps.net/
+**Project Link:** https://monikabadam.github.io/Rural-Education/
 
 **Project Demo Link:** https://www.youtube.com/watch?v=v5nTupzu-l0
 
